@@ -1,8 +1,14 @@
 # EventTestApp
 
+_**Demo**_: Working demo on surge https://event-test-app.surge.sh/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 Created for testing Angular Material os a very barebones event / calendar app.
+
+## Current status
+
+Not finished.
 
 ## Specifications
 
@@ -11,16 +17,19 @@ Created for testing Angular Material os a very barebones event / calendar app.
 Explicit required features include:
 
 Events
+
 - Date
 - Title
 - Description
 
 Events actions
+
 - View
 - Create
 - Modify
 
 General visual features
+
 - Event actions
 - Event sorting
 - Event filtering
